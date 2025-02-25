@@ -1,0 +1,26 @@
+{
+  "name": "bless-creator",
+  "version": "1.0.0",
+  "description": "Bless Auto Login or Creator and Save Token",
+  "homepage": "https://github.com/pakforlay/Bless-Creator#readme",
+  "bugs": {
+    "url": "https://github.com/pakforlay/Bless-Creator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pakforlay/Bless-Creator.git"
+  },
+  "license": "ISC",
+  "author": "PakForlay",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.5.0",
+    "cheerio": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2"
+  }
+}
